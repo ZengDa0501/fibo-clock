@@ -19,6 +19,16 @@ module.exports = {
   ],
 
   theme: {
+    colors: {
+      borderColor: '#504c4c',
+      greenColor: 'green',
+      blueColor: 'blue',
+      redColor: 'red',
+
+      whitecolor: 'white',
+      blackColor: 'black',
+    },
+
     extend: {},
 
     fontSize: {
